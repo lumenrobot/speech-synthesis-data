@@ -1,0 +1,58 @@
+{
+	"@type": "EmotionProsody",
+	"id": "angry",
+	"name": "Angry",
+	"firstWord": {
+		"firstSyllable": {
+			"durationConsonant1": -36,
+			"durationConsonant2": 1,
+			"durationVocal": 12,
+			"pitch1": 172,
+			"pitch2": 183
+		},
+		"middleSyllable": {
+			"durationConsonant1": 5,
+			"durationConsonant2": 3,
+			"durationVocal": 72,
+			"pitch1": 195,
+			"pitch2": 260
+		},
+		"lastSyllable": {
+			"durationConsonant1": -15,
+			"durationConsonant2": 5,
+			"durationVocal": 136,
+			"pitch1": 244,
+			"pitch2": 237
+		}
+	},
+	"secondWord": {
+		"firstSyllable": {
+			"durationConsonant1": -18,
+			"durationConsonant2": -10,
+			"durationVocal": 77,
+			"pitch1": 192,
+			"pitch2": 232
+		},
+		"middleSyllable": {
+			"durationConsonant1": -41,
+			"durationConsonant2": 5,
+			"durationVocal": 26,
+			"pitch1": 154,
+			"pitch2": 207
+		},
+		"lastSyllable": {
+			"durationConsonant1": 9,
+			"durationConsonant2": -16,
+			"durationVocal": 58,
+			"pitch1": 209,
+			"pitch2": 202
+		}
+	},
+	"defaultWord": {
+		"defaultSyllable": {
+			"defaultDuration": 5,
+			"pitch1": 192,
+			"pitch2": 205
+		}
+	}
+}

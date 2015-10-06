@@ -1,0 +1,58 @@
+{
+	"@type": "EmotionProsody",
+	"id": "sad",
+	"name": "Sad",
+	"firstWord": {
+		"firstSyllable": {
+			"durationConsonant1": -25,
+			"durationConsonant2": -40,
+			"durationVocal": 113,
+			"pitch1": 123,
+			"pitch2": 122
+		},
+		"middleSyllable": {
+			"durationConsonant1": -11,
+			"durationConsonant2": 40,
+			"durationVocal": 135,
+			"pitch1": 96,
+			"pitch2": 108
+		},
+		"lastSyllable": {
+			"durationConsonant1": 8,
+			"durationConsonant2": 26,
+			"durationVocal": 40,
+			"pitch1": 107,
+			"pitch2": 112
+		}
+	},
+	"secondWord": {
+		"firstSyllable": {
+			"durationConsonant1": 10,
+			"durationConsonant2": -7,
+			"durationVocal": 117,
+			"pitch1": 88,
+			"pitch2": 133
+		},
+		"middleSyllable": {
+			"durationConsonant1": 8,
+			"durationConsonant2": 33,
+			"durationVocal": 169,
+			"pitch1": 89,
+			"pitch2": 137
+		},
+		"lastSyllable": {
+			"durationConsonant1": 10,
+			"durationConsonant2": 10,
+			"durationVocal": 229,
+			"pitch1": 116,
+			"pitch2": 136
+		}
+	},
+	"defaultWord": {
+		"defaultSyllable": {
+			"defaultDuration": 33,
+			"pitch1": 113,
+			"pitch2": 116
+		}
+	}
+}

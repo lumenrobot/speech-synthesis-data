@@ -1,0 +1,58 @@
+{
+	"@type": "EmotionProsody",
+	"id": "happy",
+	"name": "Happy",
+	"firstWord": {
+		"firstSyllable": {
+			"durationConsonant1": -38,
+			"durationConsonant2": -32,
+			"durationVocal": 65,
+			"pitch1": 132,
+			"pitch2": 152
+		},
+		"middleSyllable": {
+			"durationConsonant1": 4,
+			"durationConsonant2": -36,
+			"durationVocal": 61,
+			"pitch1": 133,
+			"pitch2": 162
+		},
+		"lastSyllable": {
+			"durationConsonant1": -11,
+			"durationConsonant2": 30,
+			"durationVocal": 89,
+			"pitch1": 173,
+			"pitch2": 201
+		}
+	},
+	"secondWord": {
+		"firstSyllable": {
+			"durationConsonant1": -16,
+			"durationConsonant2": 53,
+			"durationVocal": 174,
+			"pitch1": 205,
+			"pitch2": 282
+		},
+		"middleSyllable": {
+			"durationConsonant1": -5,
+			"durationConsonant2": 21,
+			"durationVocal": 252,
+			"pitch1": 243,
+			"pitch2": 363
+		},
+		"lastSyllable": {
+			"durationConsonant1": 14,
+			"durationConsonant2": 60,
+			"durationVocal": 256,
+			"pitch1": 288,
+			"pitch2": 333
+		}
+	},
+	"defaultWord": {
+		"defaultSyllable": {
+			"defaultDuration": 21,
+			"pitch1": 226,
+			"pitch2": 242
+		}
+	}
+}
